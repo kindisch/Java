@@ -1,4 +1,4 @@
-public class ggt{
+public class U_2_5_11{
   public static void main(String args[]) {
     int p = 45;
     int q = 60;
